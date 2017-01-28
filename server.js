@@ -63,7 +63,7 @@ let lab2 = function(request, response, next) {
 
         // display results
         response.end('<h1>Lab 2 - Calculator</h1>' +
-        equation + ' = ' + result
+        equation + result
         );
     }
 }
