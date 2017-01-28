@@ -2,6 +2,7 @@
   "name": "lab2",
   "version": "1.0.0",
   "description": "comp2106 - lab2",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
